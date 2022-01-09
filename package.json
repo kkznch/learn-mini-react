@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "ssh://git@github.com/kkznch/learn-mini-react.git",
   "author": "kkznch <kkznch710md@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.16.7",
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7"
+  }
 }
